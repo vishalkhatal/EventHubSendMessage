@@ -1,0 +1,13 @@
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\EventHubDemo.exe.config
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\EventHubDemo.exe
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\EventHubDemo.pdb
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\Microsoft.Azure.EventHubs.xml
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\obj\Debug\EventHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\obj\Debug\EventHubDemo.csproj.CoreCompileInputs.cache
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\obj\Debug\EventHubDemo.exe
+C:\Users\vikhatal\source\repos\EventHubDemo\EventHubDemo\obj\Debug\EventHubDemo.pdb
