@@ -8,7 +8,7 @@
     public class Program
     {
         private static EventHubClient eventHubClient;
-        private const string EhConnectionString = "Endpoint=sb://vishaltesteventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ZO1kTTfAsXjiO4N0kDWYUTDyuAQnERBhtPkK3cWjkmY=";
+        private const string EhConnectionString = "";
         private const string EhEntityPath = "test";
 
         public static void Main(string[] args)
